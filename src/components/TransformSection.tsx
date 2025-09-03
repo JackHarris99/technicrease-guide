@@ -20,7 +20,7 @@ export default function TransformSection() {
     {
       title: "Event Tickets and Ticket Books",
       description: "Center crease + micro-perfs—currently complex offline finishing",
-      image: "/images/ticket-book-sample-2.jpg"
+      image: "/images/ticket-book-sample-3.jpg"
     }
   ]
 
